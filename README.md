@@ -1,5 +1,4 @@
-# csc211
-csc211 final
+# Word count
 
 Instructions to Run "main_with_MPI.py" Python Program (mpi4py)
 
